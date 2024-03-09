@@ -4,11 +4,11 @@ This is a simple website template for a creative agency built using HTML and CSS
 
 ## Preview
 
-![Creative Agency Website Preview 1](images/screenshot1.png)
-![Creative Agency Website Preview 2](images/screenshot2.png)
-![Creative Agency Website Preview 3](images/screenshot3.png)
-![Creative Agency Website Preview 4](images/screenshot4.png)
-![Creative Agency Website Preview 5](images/screenshot5.png)
+![Creative Agency Website Preview 1](images/Screenshot1.png)
+![Creative Agency Website Preview 2](images/Screenshot2.png)
+![Creative Agency Website Preview 3](images/Screenshot3.png)
+![Creative Agency Website Preview 4](images/Screenshot4.png)
+![Creative Agency Website Preview 5](images/Screenshot5.png)
 
 ## Features
 
